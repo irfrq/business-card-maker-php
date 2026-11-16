@@ -1,0 +1,8 @@
+{
+  "name": "Pressmark Studio",
+  "description": "Design and export print-ready logos, official rubber stamps, visiting cards, and letterheads from a unified brand identity workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
